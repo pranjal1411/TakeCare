@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- For info item . -->
+    <style name="infoTheme" >
+        <item name="android:layout_marginBottom">@dimen/info_item_margin_bottom</item>
+        <item name="android:layout_marginLeft">@dimen/info_item_margin_left</item>
+        <item name="android:paddingLeft">@dimen/info_item_padding_left</item>
+    </style>
+
+    <!-- For card view . -->
+    <style name="cardViewTheme" parent="Base.CardView" >
+        <item name="android:layout_margin">5dp</item>
+    </style>
+</resources>

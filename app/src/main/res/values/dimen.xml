@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="name_text_size">24sp</dimen>
+    <dimen name="list_item_padding">5dp</dimen>
+
+
+    //detail Activity
+    <dimen name="info_tag_margin">30dp</dimen>
+    <dimen name="info_item_margin_bottom">5dp</dimen>
+    <dimen name="info_item_margin_left">20dp</dimen>
+    <dimen name="info_item_padding_left">5dp</dimen>
+
+</resources>

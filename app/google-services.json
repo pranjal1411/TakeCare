@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "137074597850",
+    "firebase_url": "https://clinic-app-32c88.firebaseio.com",
+    "project_id": "clinic-app-32c88",
+    "storage_bucket": "clinic-app-32c88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137074597850:android:3677f77bcb7302e3",
+        "android_client_info": {
+          "package_name": "com.pranjal140003gmail.gupta.p.doctorsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137074597850-6hcdenoi0e29d13s9kjlu4fgdm6rnj15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pranjal140003gmail.gupta.p.doctorsapp",
+            "certificate_hash": "6167164d59b98a5ec35ad743457a8aac8e55a4d6"
+          }
+        },
+        {
+          "client_id": "137074597850-8vpnupcnpsier9dbjjrs6evjihmlfnr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwM-LPYCQhw8O8LE3h1VLc2f1ZNHC6oKI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137074597850-8vpnupcnpsier9dbjjrs6evjihmlfnr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137074597850:android:a7d1bb6a065fe44b",
+        "android_client_info": {
+          "package_name": "com.pranjal140003gmail.gupta.p.takecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137074597850-i7ttha9r9fl6a6413sn4it7ohr1tdvuj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pranjal140003gmail.gupta.p.takecare",
+            "certificate_hash": "6167164d59b98a5ec35ad743457a8aac8e55a4d6"
+          }
+        },
+        {
+          "client_id": "137074597850-8vpnupcnpsier9dbjjrs6evjihmlfnr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwM-LPYCQhw8O8LE3h1VLc2f1ZNHC6oKI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137074597850-8vpnupcnpsier9dbjjrs6evjihmlfnr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

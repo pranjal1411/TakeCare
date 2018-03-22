@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Take Care</string>
+
+
+
+
+
+    //detail Avtivity
+    <string name="info_tag">Personal Information</string>
+    <string name="patientName">Name:</string>
+    <string name="sex_tag">Sex:</string>
+    <string name="age_tag">Age:</string>
+    <string name="contact_number">Phone:</string>
+    <string name="email_id">Email Id:</string>
+    <string name="problem_description_tag">Problem Description</string>
+    <string name="infected_part_photo">Infected Part Images</string>
+</resources>
